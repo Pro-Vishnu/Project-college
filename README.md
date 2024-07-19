@@ -1,14 +1,8 @@
 
-# Real-Time Face Detection For Improved Surveillance and Access Control
+# Computer Vision based Virtual Mouse for hands free computer interaction
 
-## Overview
-This project focuses on developing a real-time face detection system aimed at enhancing surveillance and access control. Leveraging advanced machine learning algorithms, the system is capable of accurately detecting and recognizing faces in real-time from video feeds.
+The proposed project aims to develop a hands-free computer interaction system, specifically a computer vision-based virtual mouse, that can be controlled using head movements. The system is intended to improve accessibility for individuals with limited or no use of their hands, such as those with spinal cord injuries or neuromuscular disorders. The virtual mouse will track the movement of the user's head and convert it into mouse movements on the screen. The project has the potential to enhance user experience in gaming or virtual reality applications where hands-free interaction is desirable. The development of a real-world system based on similar principles brings us one step closer to realising the fictional technology depicted in popular culture. The project requires the development of a robust computer vision algorithm, integration of the virtual mouse system with existing operating systems and software applications, and implementation of a user-friendly interface for configuring and calibrating the system to suit individual user needs. The system has the potential to increase independence and improve the quality of life for individuals with disabilities.
 
-## Features
-- **Real-Time Face Detection:** Detects faces in live video streams with high accuracy.
-- **Face Recognition:** Identifies and verifies individuals using a pre-trained facial recognition model.
-- **Access Control:** Grants or denies access based on facial recognition results.
-- **Surveillance:** Monitors and records video streams for enhanced security.
 
 ## Working Actions
 

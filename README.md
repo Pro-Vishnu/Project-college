@@ -1,5 +1,5 @@
 
-# Real-Time Face Detection For Improved Surveillance and Access Control
+# Cursor Vision Handfree Computer Control
 
 ## Overview
 This project focuses on developing a real-time face detection system aimed at enhancing surveillance and access control. Leveraging advanced machine learning algorithms, the system is capable of accurately detecting and recognizing faces in real-time from video feeds.
